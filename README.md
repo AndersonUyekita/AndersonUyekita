@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on learning new skills to delve into a new career.
+- 🌱 I’m currently learning Data Science and Product Management.
+- 👯 I’m looking to collaborate on Lifelong learning.
+- 🤔 I’m looking for help with tools to be more productive..
+- 📫 How to reach me: Feel free to send me a message on WhatsApp: +55 11 98856-4470.
+
 <!--
 **AndersonUyekita/AndersonUyekita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
